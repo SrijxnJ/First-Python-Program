@@ -139,6 +139,9 @@ Explain *why* each change is made in one short phrase, and give one "safe" and o
 
 For photos: also give crop/straighten, posing feedback, retouch notes (remove distractions, not faces).
 
+**Face check (hard rule, from Srijan's feedback):** before using any frame or photo where Srijan's face is visible, check the expression. Never use frames where the mouth is open or mid-word, the tongue shows, the eyes are mid-blink or half-closed, or the face is caught at an awkward angle. Prefer a clear smile, a confident neutral look, a candid look-away with the mouth closed, or back-of-head/silhouette shots. If unsure, leave it out and ask.
+
+
 ## 6. MODULE — TRAVEL & EXPERIENCES (first up: Khandala office trip)
 
 Approach:

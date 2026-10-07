@@ -24,7 +24,7 @@ Cuts every 1.5 s, so it sits on the beat of any 80/120 BPM track.
 | 7.5–9 s | Sitting with the sun, pan from sun to subject | |
 | 9–10.5 s | Video IMG_3316: peak reveal at 2× speed | |
 | 10.5–12 s | Sun rays | |
-| 12–13.5 s | Profile, pan | |
+| 12–13.5 s | Cliff + cactus, push-in (replaced the profile shot after Srijan's feedback on the expression) | |
 | 13.5–15 s | Sonki field + pointed peak (power line cropped out) | |
 | 15–17 s | Team photo, pan | *same team. better view.* |
 | 17–18 s | Back to the sun + feet, which loops to frame 1 | |
@@ -32,7 +32,7 @@ Cuts every 1.5 s, so it sits on the beat of any 80/120 BPM track.
 Grade (ffmpeg starting point): gentle S-curve, warm mids/highlights (R +0.03), saturation 1.10, contrast 1.04, light vignette. Font: Instrument Serif Italic.
 
 ## Carousel (10 slides, 3:4 1080×1440)
-1 standing portrait (cover) · 2 feet POV sunset · 3 vertical sunset · 4 sonki flower · 5 sitting with sun (framed) · 6 profile · 7 sonki field + peak · 8 sun rays · 9 cliff + cactus · 10 team (framed)
+1 standing portrait (cover) · 2 feet POV sunset · 3 vertical sunset · 4 sonki flower · 5 sitting with sun (framed) · 6 smiling selfie (replaced the profile shot) · 7 sonki field + peak · 8 sun rays · 9 cliff + cactus · 10 team (framed)
 
 ## Copy
 **Reel caption (Hinglish, chill):**
