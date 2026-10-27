@@ -65,6 +65,11 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Anti-CTA "no DM needed, everything's here" + a "take a picture" save moment (clashes with comment-to-DM, see CLASHES C1). [L04]
 - CTA: "Comment *keyword* and I'll send it to you", with social proof of what they'll get. [L01]
 
+## Creators studied
+| Creator | Niche | File |
+|---|---|---|
+| @rahulmhinduja (505K) | Tech / PC builds, Hinglish | [creators/rahulmhinduja.md](creators/rahulmhinduja.md): 12 latest reels, downloaded and measured |
+
 ## Lessons studied
 | # | Source | Topic | File |
 |---|---|---|---|
