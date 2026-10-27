@@ -13,3 +13,10 @@ Places where sources disagree. Each one gets resolved together with Srijan; noth
 | C7 | Claim size | L09: small, sincere, provable claims | L01: bold hook claims; L06: "best/worst" strong takes | Open |
 | C8 | AI's role | L09: AI is a tool, only as good as your taste (mainly research) | L02–L04: hand editing/sound choices to AI agents (writing vs editing, may not truly clash) | Open |
 | C9 | Caption length | L09: ≤2-line paragraphs, shorter is better | Rahul's long, candid captions perform | Open |
+| C10 | CTA / selling | L01, L02, Rahul, P4 ManyChat: comment-keyword → DM | L05 Caleb: best content doesn't push or sell; a CTA can be "comment your biggest takeaway" (extends C1) | Open |
+| C11 | Teaser vs give all | Rahul: "comment CPU for the rest" (withhold part) | L05: give the real thing, "not some teaser" | Open |
+| C12 | Hook "lean" | L01: an unexpected/shocking fact is a valid lean | L05: unexpected facts are "getting a little tiresome" | Open |
+| C13 | Polish vs speed | Cheat sheet polish (SFX on every event, easing, counters) | L05: quality defined by audience; early videos "just trimmed"; volume first | Open |
+| C14 | Posting volume | Rahul: ~1 reel a day | L05: high volume early, then fewer, higher-effort pieces | Open |
+| C15 | Contrarian content | Rahul analysis: debunk reels were his weakest | L05 (and L06 strong takes): contrarian industry takes work | Open |
+| C16 | Who replies | P4: comment-to-DM automation | L05: replies should come from you personally *(tension inferred)* | Open |

@@ -29,6 +29,8 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 **Content & hooks (cont.)**
 - 90% of content = strong takes, small epiphanies, story time; avoid generic lists, "3 ways to" and motivational speeches (see C3). [L06]
 - Strong take → education: the opinion is the hook, then teach. [L06]
+- Hook window: 2–3 s short form, 15–20 s YouTube. Story: Hook → Problem → Journey (messy middle) → Lesson → CTA; retell your origin story (every post meets a cold audience). [L05]
+- Carousels: hook on slide 1 AND slide 2 (Instagram re-serves slide 2); one image + 1–2 sentences per slide. [L05]
 - Scripts: Hook → Story → 2 points · "8 Mile" (state the counter-argument, disprove it, then make your point) · 4–5 mini takes. [L06]
 - Yap Map: log 3–5 ideas a day from your day, media and shower/workout thoughts; give each one a take. [L06]
 - Contrast hook: "Looks X. Sounds/feels like Y." [L02]
@@ -38,6 +40,7 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - An honest limitation ("the honest part…") makes the rest believable. [L02]
 
 **Editing & pacing**
+- A regular cut rhythm trains the viewer; break the pattern for the big moment. Re-edit the same footage per platform: keep the meat, change the hook. [L05]
 - Graphic yap: ~1 overlay every 2 s (~30 images per 60 s); frame yourself with headroom for vertical graphics. [L06]
 - Change something on screen every 1.5–2.5 s (cut, layout swap, graphic). [L01]
 - Reference-driven editing: give the AI the reel whose style you want, then the raw footage; give feedback in words; turn the result into a skill. [L04]
@@ -62,16 +65,26 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Word-by-word captions with the key word in a coloured highlight box. [L03] Uppercase caption bar between split-screen halves. [L04]
 
 **Filming**
+- Quality is defined by the audience, not the gear. Accordion method: high volume early to learn, then more effort per piece. [L05]
 - Yap formats: standard, walking, car, graphic. Tripod + Bluetooth remote + plug-in mic is enough; AirPods are not. [L06]
 - Pause in silence to think (ReCut method) and re-record the intro at the end, when you're warmed up. [L06]
 
 **Brand & positioning**
+- Brand = an intentional pairing of relevant things done consistently; decide what NOT to be associated with ("awareness is not worth the trade"). [L05]
+- Brand Journey (work backwards): desired outcome → what to be known for → what to do → what to learn. Brand story = Catalyst + Core truth + Proof; tell the story, don't claim the trait. [L05]
+- Start narrow, expand "in layers, not leaps"; 80% core topic / 20% other interests ("interest stacking"). [L05]
 - Never say what a competitor could also sign; one idea beats many ("We make jeans, that's it"); build from a belief about what's wrong with the world. [L09]
+
+**Business**
+- Trust before transactions: "share the knowledge, sell the execution"; offer ladder free → lead magnet → $10–100 → $500–5K → $10K+; any deal test: "will this increase or decrease trust?" [L05]
 
 **Process**
 - Seed idea + reference layout → many rewrites → 4–5 versions side by side → feedback from people with taste → only 9/10+ ships. Full list of 28 takeaways in L09. [L09]
 
 **Growth**
+- Multiplier sheet: benchmark = median of last 75–90 days per platform and format; score each post as a multiple after ~11 days; monthly top-10% review. 70/20/10 proven/iterate/experiment. [L05]
+- Short form = awareness, long form = conversion; 2–3 platforms, grow one at a time ("Eye of Sauron"); waterfall one long piece into 10+. [L05]
+- Reply to commenters personally; take ideas from repeated comment/DM questions. [L05]
 - Anti-CTA "no DM needed, everything's here" + a "take a picture" save moment (clashes with comment-to-DM, see CLASHES C1). [L04]
 - CTA: "Comment *keyword* and I'll send it to you", with social proof of what they'll get. [L01]
 
@@ -87,5 +100,6 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 | L02 | [Instagram reel](https://www.instagram.com/p/De9yxpuIG6X/) | Sound for AI edits: Openverse + Real SFX + earshot | [lessons/02_ai-edit-sound-stack.md](lessons/02_ai-edit-sound-stack.md) |
 | L03 | Upload `Video-50003.mp4` (Ugoki course promo) | Easing: ease out / ease in / spring, nothing linear | [lessons/03_easing-motion-curves.md](lessons/03_easing-motion-curves.md) |
 | L04 | Upload `Video-60622.mp4` | 1-prompt edit with Claude: 7-tool stack, reference-driven editing, turn into a skill | [lessons/04_one-prompt-edit-with-claude.md](lessons/04_one-prompt-edit-with-claude.md) |
+| L05 | [YouTube: Caleb Ralston](https://www.youtube.com/watch?v=Ch4Sl0POBhU) (6 h 22 m, filmed Feb 2025) | Personal brand full course: brand journey, positioning, story, multiplier sheet, 70/20/10, team, monetisation | [lessons/05_caleb-ralston-personal-brand.md](lessons/05_caleb-ralston-personal-brand.md) |
 | L06 | [YouTube: orenmeetsworld](https://www.youtube.com/watch?v=CS0A4hJfcy4) | The Art of Yapping: talk-to-camera formats, 5 frameworks, Yap Map, scripts, ReCut | [lessons/06_oren-art-of-yapping.md](lessons/06_oren-art-of-yapping.md) |
 | L09 | [YouTube: David Perell × Harry Dry](https://www.youtube.com/watch?v=TUMjnmfsPeM) | Copywriting: visualize / falsify / nobody else, 32 before→after rewrites | [lessons/09_harry-dry-copywriting.md](lessons/09_harry-dry-copywriting.md) |
