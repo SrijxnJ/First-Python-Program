@@ -5,6 +5,7 @@
 #   - earshot (MIT, github.com/Leonxlnx/earshot): CPU audio "ears", ~1.1 GB of models on first fetch
 #   - Real SFX (.claude/skills/real-sfx) only needs python3 + ffmpeg, which the container already has
 set -euo pipefail
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 TOOLS=${TOOLS:-/home/user/tools}
 mkdir -p "$TOOLS"
 if [ ! -d "$TOOLS/earshot/.git" ]; then
@@ -23,5 +24,5 @@ echo "earshot ready:  EARSHOT_HOME=$TOOLS/earshot $TOOLS/earshot/.venv/bin/pytho
 M=${TOOLS}/media
 mkdir -p "$M"; [ -d "$M/.venv" ] || python3 -m venv "$M/.venv"
 "$M/.venv/bin/pip" -q install faster-whisper yt-dlp opencv-contrib-python-headless
-cp "$(dirname "$0")/transcribe.py" "$M/transcribe.py"
+cp "$SCRIPT_DIR/transcribe.py" "$M/transcribe.py"
 echo "media tools ready: $M/.venv/bin/python -I $M/transcribe.py <video> [small|medium]"
