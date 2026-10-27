@@ -20,3 +20,9 @@ Places where sources disagree. Each one gets resolved together with Srijan; noth
 | C14 | Posting volume | Rahul: ~1 reel a day | L05: high volume early, then fewer, higher-effort pieces | Open |
 | C15 | Contrarian content | Rahul analysis: debunk reels were his weakest | L05 (and L06 strong takes): contrarian industry takes work | Open |
 | C16 | Who replies | P4: comment-to-DM automation | L05: replies should come from you personally *(tension inferred)* | Open |
+| C17 | Hook method | L01: structured context → lean → snapback | L08 Briar: "I don't like thinking about the hooks too much… say something crazy and get into it" | Open |
+| C18 | CTA frequency | Rahul: comment-keyword CTA on nearly every reel | L08: one selling post a week + story sells 2×/week (relates to C1/C10) | Open |
+| C19 | Audience width | L08: widen the TAM "one layer higher" for reach | L08's own "unique, specific, observed"; Rahul's hyper-local hooks; L05 "start narrow" | Open |
+| C20 | Listicles | L06: avoid "three ways to…" | L08: even "here's three things" beats no framework; "9 travel hacks" is a valid reach post (extends C3) | Open |
+| C21 | Polish vs volume | Cheat-sheet polish rules | L08: "sometimes you just got to post" (extends C13) | Open |
+| C22 | AI role | L04: AI edits | L08: AI for ideation, not scripting (extends C8) | Open |

@@ -30,6 +30,9 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - 90% of content = strong takes, small epiphanies, story time; avoid generic lists, "3 ways to" and motivational speeches (see C3). [L06]
 - Strong take → education: the opinion is the hook, then teach. [L06]
 - Hook window: 2–3 s short form, 15–20 s YouTube. Story: Hook → Problem → Journey (messy middle) → Lesson → CTA; retell your origin story (every post meets a cold audience). [L05]
+- Untangle each video into Hook / Format / Topic / Illustration; change one variable next week. Ideas: niche subreddit top posts, outliers vs a creator's own average, 5 in-niche creators for topics + 5 outside for packaging. [L08]
+- Re-open a curiosity loop ~15 s in; one conversation goal per video (comments / sends / saves); "comment farm" = an odd detail planted in frame. [L08]
+- Series get the best view-to-follower ratio. [L08]
 - Carousels: hook on slide 1 AND slide 2 (Instagram re-serves slide 2); one image + 1–2 sentences per slide. [L05]
 - Scripts: Hook → Story → 2 points · "8 Mile" (state the counter-argument, disprove it, then make your point) · 4–5 mini takes. [L06]
 - Yap Map: log 3–5 ideas a day from your day, media and shower/workout thoughts; give each one a take. [L06]
@@ -40,6 +43,7 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - An honest limitation ("the honest part…") makes the rest believable. [L02]
 
 **Editing & pacing**
+- Sell a long video with a 30–45 s hyper-edited teaser of its most contrarian soundbite (shots <2 s, bass hit on every text pop). [L08]
 - A regular cut rhythm trains the viewer; break the pattern for the big moment. Re-edit the same footage per platform: keep the meat, change the hook. [L05]
 - Graphic yap: ~1 overlay every 2 s (~30 images per 60 s); frame yourself with headroom for vertical graphics. [L06]
 - Change something on screen every 1.5–2.5 s (cut, layout swap, graphic). [L01]
@@ -82,6 +86,8 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Seed idea + reference layout → many rewrites → 4–5 versions side by side → feedback from people with taste → only 9/10+ ships. Full list of 28 takeaways in L09. [L09]
 
 **Growth**
+- Instagram is follower-first: off-topic "ghost followers" stall reach; check non-follower view % on the last 5–10 posts (>~50% fine). "Viral for you" ≈ 4–5× your own baseline. [L08]
+- Weekly mix 4 reach : 2 "blow their mind" : 1 "sneak peek inside"; stories sell 2×/week; keep a bank of 14–15 videos; paid follower ads hurt organic reach. [L08]
 - Multiplier sheet: benchmark = median of last 75–90 days per platform and format; score each post as a multiple after ~11 days; monthly top-10% review. 70/20/10 proven/iterate/experiment. [L05]
 - Short form = awareness, long form = conversion; 2–3 platforms, grow one at a time ("Eye of Sauron"); waterfall one long piece into 10+. [L05]
 - Reply to commenters personally; take ideas from repeated comment/DM questions. [L05]
@@ -102,4 +108,5 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 | L04 | Upload `Video-60622.mp4` | 1-prompt edit with Claude: 7-tool stack, reference-driven editing, turn into a skill | [lessons/04_one-prompt-edit-with-claude.md](lessons/04_one-prompt-edit-with-claude.md) |
 | L05 | [YouTube: Caleb Ralston](https://www.youtube.com/watch?v=Ch4Sl0POBhU) (6 h 22 m, filmed Feb 2025) | Personal brand full course: brand journey, positioning, story, multiplier sheet, 70/20/10, team, monetisation | [lessons/05_caleb-ralston-personal-brand.md](lessons/05_caleb-ralston-personal-brand.md) |
 | L06 | [YouTube: orenmeetsworld](https://www.youtube.com/watch?v=CS0A4hJfcy4) | The Art of Yapping: talk-to-camera formats, 5 frameworks, Yap Map, scripts, ReCut | [lessons/06_oren-art-of-yapping.md](lessons/06_oren-art-of-yapping.md) |
+| L08 | [YouTube: Tristan Workman × Briar Cochran](https://www.youtube.com/watch?v=6Zk5XPNHZY4) (3 h 7 m podcast) | Untangle data (Hook/Format/Topic/Illustration), ghost followers, weekly 4:2:1 mix, follow-up sales | [lessons/08_tristan-workman-100k-content.md](lessons/08_tristan-workman-100k-content.md) |
 | L09 | [YouTube: David Perell × Harry Dry](https://www.youtube.com/watch?v=TUMjnmfsPeM) | Copywriting: visualize / falsify / nobody else, 32 before→after rewrites | [lessons/09_harry-dry-copywriting.md](lessons/09_harry-dry-copywriting.md) |

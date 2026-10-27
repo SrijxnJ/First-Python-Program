@@ -14,8 +14,22 @@
   - Where the speaker is unclear from context, the line is marked *(speaker unclear)*. All attributions are *(inferred)* from context: who tells which personal story, and who is asking or answering.
 - **About the title:** "$100k a month" is not taught as a method. It comes from a hook the two wrote live in the hook workshop [1:47:01], and that hook was reused as the cold open [0:00] *(inferred from matching text)*.
 
-## Production (editing, sound, animation, captions)
-_To be filled from the visual breakdown._
+## Production (editing, sound, animation, captions): from the vidIQ visual breakdown
+_Format: a ~3 h 7 min two-person studio podcast (Tristan Workman hosting guest Briar Cochran), preceded by a 46-second hyper-edited teaser._
+
+| Area | Teaser (0:00–0:46) | Main body (0:49–end) |
+|---|---|---|
+| Hook | Black screen with glowing text *"If I have to make $100,000/MONTH in…"*, then the guest: *"If you had a gun to my head and you said I have to make $100,000 a month in the next 60 to 90 days, the three cities I would pick… Omaha, Nebraska; Des Moines, Iowa; Fargo, North Dakota. Why?"*. Contrarian, specific, high stakes | n/a |
+| Pacing | Average shot **0.8–1.8 s**; aggressive jump cuts, **10–15% push-ins/push-outs**, screen flashes, speed ramps synced to percussive hits; ends on a metallic thud and a hard cut to black | Wide multi-cam master; long uncut conversational takes; pattern interrupts come from live demos (real-time hook workshop ~1:36–1:51, content funnel ~1:51:47, follow-up email/pipeline maths ~2:12+); _the visual tool's own segment times were off, these are the transcript times_ |
+| B-roll | Drone shots of Omaha / Des Moines / Fargo with location stamps ("Fargo, North Dakota") | Minimal |
+| Music | Heavy bass-driven cinematic electronic riser/beat | **No music bed**, dialogue only |
+| SFX | **Impacts/bass drops on key text pops** ("$100,000/MONTH", "WHY"); **whooshes/risers on push-ins, text slide-ins and transitions**; metallic thud before the cut to black | None noted |
+| Motion/type | **Script font + heavy extruded bold sans** pairing ("If I have to make" + "$100,000/MONTH"), outer glow, chromatic aberration, scale pop-ins; tracked floating text ("it's so POWERFUL"); smooth cubic-bezier easing on pop-ins and digital pushes | Minimal watermarks |
+| Captions | Custom animated motion text (centre / lower third), not auto-captions; palette red #FF0033, cyan #00CCFF, white, charcoal; condensed heavy sans (Futura Bold / Montserrat ExtraBold-like) + brush script accents | n/a |
+| Camera/set | n/a | Two subjects in ¾ profile, medium-wide; high-key soft 3-point light with rim; wood-slat acoustic panels, faux-boxwood green wall with monitor, green velvet armchairs, bird-of-paradise plants; dynamic SM7B-style mics |
+| Grade | High-contrast graphic look | Warm, natural, balanced; saturated greens vs warm skin |
+
+**Pattern worth noting:** a long, slow podcast is sold by a **short, hyper-edited teaser** of its single most contrarian soundbite.
 
 ---
 
