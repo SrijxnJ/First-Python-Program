@@ -41,6 +41,9 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - One Mississippi: a line not understood in ~2 s fails; the first line's only job is to get the second line read. [L09]
 - Conflict everywhere: before/after, problem/solution, an enemy (approach, belief, competitor); explain new things by comparing to known ones. [L09]
 - An honest limitation ("the honest part…") makes the rest believable. [L02]
+- You compete with the viewer's whole feed, not niche rivals; look outside your niche. Shareability test: why would someone send this to a friend? [L07]
+- Break each reference into title hook + verbal hook + visual hook + narrative framework + simple outline. Four copy styles: direct response, evidence-led, story-driven, culturally savvy. [L07]
+- Faceless works if there's a concept (POV hands-only skits + voiceover); "blitz" rapid-fire lists and storytime are reliable mechanisms. [L07]
 
 **Editing & pacing**
 - Sell a long video with a 30–45 s hyper-edited teaser of its most contrarian soundbite (shots <2 s, bass hit on every text pop). [L08]
@@ -48,6 +51,7 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Graphic yap: ~1 overlay every 2 s (~30 images per 60 s); frame yourself with headroom for vertical graphics. [L06]
 - Change something on screen every 1.5–2.5 s (cut, layout swap, graphic). [L01]
 - Reference-driven editing: give the AI the reel whose style you want, then the raw footage; give feedback in words; turn the result into a skill. [L04]
+- Long-form talking head: axial jump cuts (same angle, digital punch-in) every 3–6 words; rotate physical sets every few minutes as pattern interrupts; brand examples as overlays every 10–15 s. [L07]
 
 **Sound**
 - One quiet music bed plus an SFX for every visual event: whoosh = move, pop = text, chime = success, thud = impact. [L01]
@@ -55,11 +59,13 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 **Sound (cont.)**
 - Lo-fi bed at about −22 to −24 dB under a compressed, de-essed voice; pop/whoosh/click on graphics. [L06]
 - No SFX = "silent movie". Free CC0 sounds come from Openverse. AI-assisted placement and critique: Real SFX skill + earshot (both installed in .claude/skills; earshot rebuilt with tools/setup_audio_tools.sh). [L02]
+- Music changes by section (driving synthwave hook → lo-fi teaching → deep house tactics → emotional swell outro); keyboard clicks / UI pops on bullets, riser + sub-boom at chapter edges, CRT static on chapter cards. [L07]
 
 **Effects**
 - 105–110% punch-in zooms on key phrases and new sections. [L06]
 - Easing: entrances ease out · exits ease in · UI/text pops = spring with slight overshoot · **nothing linear** (our past pans were linear, fix). [L03]
 - Number counters (e.g. counting up to 75 KG) and n/3 progress badges for list videos. [L02]
+- Bigger 1.15–1.3× punch-ins on punchlines/framework names (L06 used 1.05–1.1×); 3D chrome chapter emblems; screen recordings in dark rounded cards + floating circular PiP. [L07]
 
 **Text & fonts**
 - Every word not working for you works against you; no paragraph over 2 lines; swap literal words for visual ones ("1,000 songs in your pocket"). [L09]
@@ -67,27 +73,36 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Teaching content: clean sans, white/yellow on dark, red = wrong, green = right. [L01]
 - Emphasis words in serif italic, body in clean sans, keyword highlights in yellow/orange. [L02]
 - Word-by-word captions with the key word in a coloured highlight box. [L03] Uppercase caption bar between split-screen halves. [L04]
+- Extended bold geometric sans titles (Druk Wide / Monument Extended style) + Inter body; neon cyan / lime / pink highlights on numbers and acronyms. [L07]
 
 **Filming**
 - Quality is defined by the audience, not the gear. Accordion method: high volume early to learn, then more effort per piece. [L05]
 - Yap formats: standard, walking, car, graphic. Tripod + Bluetooth remote + plug-in mic is enough; AirPods are not. [L06]
 - Pause in silence to think (ReCut method) and re-record the intro at the end, when you're warmed up. [L06]
+- Treat places as "sets": evergreen (desk corner, gym, room) and temporary (an event the night before). [L07]
 
 **Brand & positioning**
 - Brand = an intentional pairing of relevant things done consistently; decide what NOT to be associated with ("awareness is not worth the trade"). [L05]
 - Brand Journey (work backwards): desired outcome → what to be known for → what to do → what to learn. Brand story = Catalyst + Core truth + Proof; tell the story, don't claim the trait. [L05]
 - Start narrow, expand "in layers, not leaps"; 80% core topic / 20% other interests ("interest stacking"). [L05]
 - Never say what a competitor could also sign; one idea beats many ("We make jeans, that's it"); build from a belief about what's wrong with the world. [L09]
+- Positioning = "what you're known for": not generic, memorable, AI-legible. Shelf test; pick one positioning type as the north star; one statement: "For [target] who [need], [brand] is the [category] that [benefit]. Unlike [competitor], we [differentiator]." [L07]
+- Brand world map: characters, sets, events calendar (personal / culture / industry), plot (events, enemies, friends, specials); look for the gaps. [L07]
 
 **Business**
 - Trust before transactions: "share the knowledge, sell the execution"; offer ladder free → lead magnet → $10–100 → $500–5K → $10K+; any deal test: "will this increase or decrease trust?" [L05]
+- Brand deals: creator pyramid (micro → mid 30K–100K → anchors); paid via seeding, affiliates, paid posts, whitelisting (brand runs your post as an ad via an ad code). Modular brief = 2 messages, target, hook ideas, references, outline, variants. [L07]
+- "The closer you are to the dollars, the more money you make": attention → CTA → landing page → lead/sale → follow-up. Ads: ~$50/day, 3–10 variations, spend 3–5× target CPA before judging, 3:1 LTV:CAC. Email 1–3×/week, plain text from a person. [L07]
 
 **Process**
 - Seed idea + reference layout → many rewrites → 4–5 versions side by side → feedback from people with taste → only 9/10+ ships. Full list of 28 takeaways in L09. [L09]
+- AI adoption levels: chat → project → skills → agents → "brain" (this Brain is level 5). Weekly self-update: wins, next, blockers, numbers. [L07]
 
 **Growth**
 - Instagram is follower-first: off-topic "ghost followers" stall reach; check non-follower view % on the last 5–10 posts (>~50% fine). "Viral for you" ≈ 4–5× your own baseline. [L08]
 - Weekly mix 4 reach : 2 "blow their mind" : 1 "sneak peek inside"; stories sell 2×/week; keep a bank of 14–15 videos; paid follower ads hurt organic reach. [L08]
+- Pillar system: 3–5 formats × 3–4 posts/month; review monthly (views, saves, shares, hook rate, new vs old followers); swap a format after two worse months. Claim: traction in 3–5 months. [L07]
+- Master one network first (usually Instagram), cross-post everywhere; ~4 collab posts a month bring new audiences; bio = what you do / why follow / CTA. [L07]
 - Multiplier sheet: benchmark = median of last 75–90 days per platform and format; score each post as a multiple after ~11 days; monthly top-10% review. 70/20/10 proven/iterate/experiment. [L05]
 - Short form = awareness, long form = conversion; 2–3 platforms, grow one at a time ("Eye of Sauron"); waterfall one long piece into 10+. [L05]
 - Reply to commenters personally; take ideas from repeated comment/DM questions. [L05]
@@ -108,5 +123,6 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 | L04 | Upload `Video-60622.mp4` | 1-prompt edit with Claude: 7-tool stack, reference-driven editing, turn into a skill | [lessons/04_one-prompt-edit-with-claude.md](lessons/04_one-prompt-edit-with-claude.md) |
 | L05 | [YouTube: Caleb Ralston](https://www.youtube.com/watch?v=Ch4Sl0POBhU) (6 h 22 m, filmed Feb 2025) | Personal brand full course: brand journey, positioning, story, multiplier sheet, 70/20/10, team, monetisation | [lessons/05_caleb-ralston-personal-brand.md](lessons/05_caleb-ralston-personal-brand.md) |
 | L06 | [YouTube: orenmeetsworld](https://www.youtube.com/watch?v=CS0A4hJfcy4) | The Art of Yapping: talk-to-camera formats, 5 frameworks, Yap Map, scripts, ReCut | [lessons/06_oren-art-of-yapping.md](lessons/06_oren-art-of-yapping.md) |
+| L07 | [YouTube: orenmeetsworld](https://www.youtube.com/watch?v=daCB1kVOtMA) (2 h 47 m) | Marketing course: positioning, brand world map, pillar system, ads maths, funnels, campaigns, AI levels | [lessons/07_oren-marketing-training.md](lessons/07_oren-marketing-training.md) |
 | L08 | [YouTube: Tristan Workman × Briar Cochran](https://www.youtube.com/watch?v=6Zk5XPNHZY4) (3 h 7 m podcast) | Untangle data (Hook/Format/Topic/Illustration), ghost followers, weekly 4:2:1 mix, follow-up sales | [lessons/08_tristan-workman-100k-content.md](lessons/08_tristan-workman-100k-content.md) |
 | L09 | [YouTube: David Perell × Harry Dry](https://www.youtube.com/watch?v=TUMjnmfsPeM) | Copywriting: visualize / falsify / nobody else, 32 before→after rewrites | [lessons/09_harry-dry-copywriting.md](lessons/09_harry-dry-copywriting.md) |

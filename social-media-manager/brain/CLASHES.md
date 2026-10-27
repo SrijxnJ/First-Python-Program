@@ -26,3 +26,9 @@ Places where sources disagree. Each one gets resolved together with Srijan; noth
 | C20 | Listicles | L06: avoid "three ways to…" | L08: even "here's three things" beats no framework; "9 travel hacks" is a valid reach post (extends C3) | Open |
 | C21 | Polish vs volume | Cheat-sheet polish rules | L08: "sometimes you just got to post" (extends C13) | Open |
 | C22 | AI role | L04: AI edits | L08: AI for ideation, not scripting (extends C8) | Open |
+| C23 | CTA destination | L01/Rahul: comment → DM; L04: no DM needed | L07 Oren: send people to a landing page / email list (bio CTA = newsletter); a third option (extends C1) | Open |
+| C24 | Hook metric weight | L01: hook and skip rate come first | L07: for ads, thumb stop "don't really matter" if ROAS is hit (he still tracks hook rate for organic) | Open |
+| C25 | Research scope | Rahul file: study one same-niche creator deeply | L07: you compete with the viewer's whole feed; look outside your niche | Open |
+| C26 | Posting cadence | Rahul: ~10 reels in 10 days | L07: 3 expert posts/week minimum, 12–16/month pillar plan (extends C14) | Open |
+| C27 | Polish by platform | L01–L04, Rahul: heavily produced reels | L07: TikTok more candid, shot on iPhone; yet his own long-form is extremely produced (extends C13/C21) | Open |
+| C28 | Face on camera | All Brain formats so far are face-to-camera | L07: expert on camera is #1, but hands-only POV skits with a concept also work | Open |
