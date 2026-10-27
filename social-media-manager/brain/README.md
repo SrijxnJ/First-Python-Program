@@ -32,6 +32,7 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 
 **Editing & pacing**
 - Change something on screen every 1.5–2.5 s (cut, layout swap, graphic). [L01]
+- Reference-driven editing: give the AI the reel whose style you want, then the raw footage; give feedback in words; turn the result into a skill. [L04]
 
 **Sound**
 - One quiet music bed plus an SFX for every visual event: whoosh = move, pop = text, chime = success, thud = impact. [L01]
@@ -40,13 +41,16 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - No SFX = "silent movie". Free CC0 sounds come from Openverse. AI-assisted placement and critique: Real SFX skill + earshot (both installed in .claude/skills; earshot rebuilt with tools/setup_audio_tools.sh). [L02]
 
 **Effects**
+- Easing: entrances ease out · exits ease in · UI/text pops = spring with slight overshoot · **nothing linear** (our past pans were linear, fix). [L03]
 - Number counters (e.g. counting up to 75 KG) and n/3 progress badges for list videos. [L02]
 
 **Text & fonts**
 - Teaching content: clean sans, white/yellow on dark, red = wrong, green = right. [L01]
 - Emphasis words in serif italic, body in clean sans, keyword highlights in yellow/orange. [L02]
+- Word-by-word captions with the key word in a coloured highlight box. [L03] Uppercase caption bar between split-screen halves. [L04]
 
 **Growth**
+- Anti-CTA "no DM needed, everything's here" + a "take a picture" save moment (clashes with comment-to-DM, see CLASHES C1). [L04]
 - CTA: "Comment *keyword* and I'll send it to you", with social proof of what they'll get. [L01]
 
 ## Lessons studied
@@ -54,3 +58,5 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 |---|---|---|---|
 | L01 | [Instagram reel](https://www.instagram.com/p/De_5mQ0R8PE/) (references Kallaway's hook masterclass) | Triple Hook Method: context, lean, snapback | [lessons/01_triple-hook-method.md](lessons/01_triple-hook-method.md) |
 | L02 | [Instagram reel](https://www.instagram.com/p/De9yxpuIG6X/) | Sound for AI edits: Openverse + Real SFX + earshot | [lessons/02_ai-edit-sound-stack.md](lessons/02_ai-edit-sound-stack.md) |
+| L03 | Upload `Video-50003.mp4` (Ugoki course promo) | Easing: ease out / ease in / spring, nothing linear | [lessons/03_easing-motion-curves.md](lessons/03_easing-motion-curves.md) |
+| L04 | Upload `Video-60622.mp4` | 1-prompt edit with Claude: 7-tool stack, reference-driven editing, turn into a skill | [lessons/04_one-prompt-edit-with-claude.md](lessons/04_one-prompt-edit-with-claude.md) |
