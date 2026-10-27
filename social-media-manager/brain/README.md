@@ -27,10 +27,15 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Then *snapback*: pull the viewer opposite to what they expect. [L01]
 
 **Content & hooks (cont.)**
+- 90% of content = strong takes, small epiphanies, story time; avoid generic lists, "3 ways to" and motivational speeches (see C3). [L06]
+- Strong take → education: the opinion is the hook, then teach. [L06]
+- Scripts: Hook → Story → 2 points · "8 Mile" (state the counter-argument, disprove it, then make your point) · 4–5 mini takes. [L06]
+- Yap Map: log 3–5 ideas a day from your day, media and shower/workout thoughts; give each one a take. [L06]
 - Contrast hook: "Looks X. Sounds/feels like Y." [L02]
 - An honest limitation ("the honest part…") makes the rest believable. [L02]
 
 **Editing & pacing**
+- Graphic yap: ~1 overlay every 2 s (~30 images per 60 s); frame yourself with headroom for vertical graphics. [L06]
 - Change something on screen every 1.5–2.5 s (cut, layout swap, graphic). [L01]
 - Reference-driven editing: give the AI the reel whose style you want, then the raw footage; give feedback in words; turn the result into a skill. [L04]
 
@@ -38,16 +43,23 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - One quiet music bed plus an SFX for every visual event: whoosh = move, pop = text, chime = success, thud = impact. [L01]
 
 **Sound (cont.)**
+- Lo-fi bed at about −22 to −24 dB under a compressed, de-essed voice; pop/whoosh/click on graphics. [L06]
 - No SFX = "silent movie". Free CC0 sounds come from Openverse. AI-assisted placement and critique: Real SFX skill + earshot (both installed in .claude/skills; earshot rebuilt with tools/setup_audio_tools.sh). [L02]
 
 **Effects**
+- 105–110% punch-in zooms on key phrases and new sections. [L06]
 - Easing: entrances ease out · exits ease in · UI/text pops = spring with slight overshoot · **nothing linear** (our past pans were linear, fix). [L03]
 - Number counters (e.g. counting up to 75 KG) and n/3 progress badges for list videos. [L02]
 
 **Text & fonts**
+- Yellow bold serif section titles + clean sans UI. [L06]
 - Teaching content: clean sans, white/yellow on dark, red = wrong, green = right. [L01]
 - Emphasis words in serif italic, body in clean sans, keyword highlights in yellow/orange. [L02]
 - Word-by-word captions with the key word in a coloured highlight box. [L03] Uppercase caption bar between split-screen halves. [L04]
+
+**Filming**
+- Yap formats: standard, walking, car, graphic. Tripod + Bluetooth remote + plug-in mic is enough; AirPods are not. [L06]
+- Pause in silence to think (ReCut method) and re-record the intro at the end, when you're warmed up. [L06]
 
 **Growth**
 - Anti-CTA "no DM needed, everything's here" + a "take a picture" save moment (clashes with comment-to-DM, see CLASHES C1). [L04]
@@ -60,3 +72,4 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 | L02 | [Instagram reel](https://www.instagram.com/p/De9yxpuIG6X/) | Sound for AI edits: Openverse + Real SFX + earshot | [lessons/02_ai-edit-sound-stack.md](lessons/02_ai-edit-sound-stack.md) |
 | L03 | Upload `Video-50003.mp4` (Ugoki course promo) | Easing: ease out / ease in / spring, nothing linear | [lessons/03_easing-motion-curves.md](lessons/03_easing-motion-curves.md) |
 | L04 | Upload `Video-60622.mp4` | 1-prompt edit with Claude: 7-tool stack, reference-driven editing, turn into a skill | [lessons/04_one-prompt-edit-with-claude.md](lessons/04_one-prompt-edit-with-claude.md) |
+| L06 | [YouTube: orenmeetsworld](https://www.youtube.com/watch?v=CS0A4hJfcy4) | The Art of Yapping: talk-to-camera formats, 5 frameworks, Yap Map, scripts, ReCut | [lessons/06_oren-art-of-yapping.md](lessons/06_oren-art-of-yapping.md) |
