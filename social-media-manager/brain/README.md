@@ -32,6 +32,9 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Scripts: Hook → Story → 2 points · "8 Mile" (state the counter-argument, disprove it, then make your point) · 4–5 mini takes. [L06]
 - Yap Map: log 3–5 ideas a day from your day, media and shower/workout thoughts; give each one a take. [L06]
 - Contrast hook: "Looks X. Sounds/feels like Y." [L02]
+- Harry Dry's 3 tests for every line: can I visualize it? can I falsify it? can nobody else say it? Zoom abstract → concrete; "if in doubt, give me a fact". [L09]
+- One Mississippi: a line not understood in ~2 s fails; the first line's only job is to get the second line read. [L09]
+- Conflict everywhere: before/after, problem/solution, an enemy (approach, belief, competitor); explain new things by comparing to known ones. [L09]
 - An honest limitation ("the honest part…") makes the rest believable. [L02]
 
 **Editing & pacing**
@@ -52,6 +55,7 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - Number counters (e.g. counting up to 75 KG) and n/3 progress badges for list videos. [L02]
 
 **Text & fonts**
+- Every word not working for you works against you; no paragraph over 2 lines; swap literal words for visual ones ("1,000 songs in your pocket"). [L09]
 - Yellow bold serif section titles + clean sans UI. [L06]
 - Teaching content: clean sans, white/yellow on dark, red = wrong, green = right. [L01]
 - Emphasis words in serif italic, body in clean sans, keyword highlights in yellow/orange. [L02]
@@ -60,6 +64,12 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 **Filming**
 - Yap formats: standard, walking, car, graphic. Tripod + Bluetooth remote + plug-in mic is enough; AirPods are not. [L06]
 - Pause in silence to think (ReCut method) and re-record the intro at the end, when you're warmed up. [L06]
+
+**Brand & positioning**
+- Never say what a competitor could also sign; one idea beats many ("We make jeans, that's it"); build from a belief about what's wrong with the world. [L09]
+
+**Process**
+- Seed idea + reference layout → many rewrites → 4–5 versions side by side → feedback from people with taste → only 9/10+ ships. Full list of 28 takeaways in L09. [L09]
 
 **Growth**
 - Anti-CTA "no DM needed, everything's here" + a "take a picture" save moment (clashes with comment-to-DM, see CLASHES C1). [L04]
@@ -78,3 +88,4 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 | L03 | Upload `Video-50003.mp4` (Ugoki course promo) | Easing: ease out / ease in / spring, nothing linear | [lessons/03_easing-motion-curves.md](lessons/03_easing-motion-curves.md) |
 | L04 | Upload `Video-60622.mp4` | 1-prompt edit with Claude: 7-tool stack, reference-driven editing, turn into a skill | [lessons/04_one-prompt-edit-with-claude.md](lessons/04_one-prompt-edit-with-claude.md) |
 | L06 | [YouTube: orenmeetsworld](https://www.youtube.com/watch?v=CS0A4hJfcy4) | The Art of Yapping: talk-to-camera formats, 5 frameworks, Yap Map, scripts, ReCut | [lessons/06_oren-art-of-yapping.md](lessons/06_oren-art-of-yapping.md) |
+| L09 | [YouTube: David Perell × Harry Dry](https://www.youtube.com/watch?v=TUMjnmfsPeM) | Copywriting: visualize / falsify / nobody else, 32 before→after rewrites | [lessons/09_harry-dry-copywriting.md](lessons/09_harry-dry-copywriting.md) |
