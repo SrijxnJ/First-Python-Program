@@ -20,9 +20,9 @@ export EARSHOT_HOME="$TOOLS/earshot"
 .venv/bin/python -m earshot doctor
 echo "earshot ready:  EARSHOT_HOME=$TOOLS/earshot $TOOLS/earshot/.venv/bin/python -m earshot <command>"
 
-# Media helpers from Lesson 04: faster-whisper (word-level transcripts), yt-dlp (downloads), OpenCV contrib (CSRT tracker)
+# Media helpers: faster-whisper (word-level transcripts), yt-dlp (downloads), OpenCV contrib (CSRT tracker), fastembed (Master Mind neural links)
 M=${TOOLS}/media
 mkdir -p "$M"; [ -d "$M/.venv" ] || python3 -m venv "$M/.venv"
-"$M/.venv/bin/pip" -q install faster-whisper yt-dlp opencv-contrib-python-headless
+"$M/.venv/bin/pip" -q install faster-whisper yt-dlp opencv-contrib-python-headless fastembed numpy
 cp "$SCRIPT_DIR/transcribe.py" "$M/transcribe.py"
 echo "media tools ready: $M/.venv/bin/python -I $M/transcribe.py <video> [small|medium]"
