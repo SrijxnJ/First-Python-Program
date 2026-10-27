@@ -37,7 +37,7 @@ Tools, repos and skills we find along the way go to [PARKED.md](PARKED.md) and g
 - One quiet music bed plus an SFX for every visual event: whoosh = move, pop = text, chime = success, thud = impact. [L01]
 
 **Sound (cont.)**
-- No SFX = "silent movie". Free CC0 sounds come from Openverse. AI-assisted placement and critique: Real SFX skill + earshot (both parked, pending install). [L02]
+- No SFX = "silent movie". Free CC0 sounds come from Openverse. AI-assisted placement and critique: Real SFX skill + earshot (both installed in .claude/skills; earshot rebuilt with tools/setup_audio_tools.sh). [L02]
 
 **Effects**
 - Number counters (e.g. counting up to 75 KG) and n/3 progress badges for list videos. [L02]
